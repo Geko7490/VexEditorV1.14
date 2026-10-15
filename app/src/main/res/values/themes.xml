@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.VexEditStudio" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#111114</item>
+        <item name="android:statusBarColor">#111114</item>
+        <item name="android:navigationBarColor">#16161a</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
